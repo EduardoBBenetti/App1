@@ -1,9 +1,3 @@
-/*
- * File:   UART2.c
- * Author: Rushi V
- *
- * Created on October 18, 2020, 9:32 PM
- */
 
 #include "xc.h"
 #include "math.h"
